@@ -1,5 +1,5 @@
 import './App.css'
-import PersonForm from './containers/person-form/person-form.jsx';
+import PersonForm from './containers/person-form/person-form-v2.jsx';
 
 function App() {
 
